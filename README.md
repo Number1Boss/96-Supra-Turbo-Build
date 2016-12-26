@@ -21,7 +21,14 @@ Completely stock except HKS cold air intake and Vibrant 3" Cat back
 * Brakes: Lexus LS400
 \* tbd: to be determined
 
-#I am currently working on: Megasquirt wiring plan, Inputs and Outputs
+#General Milestones
+1. Get motor running on MegaSquirt ecu
+2. Get turbo parts fitted and tested (no manifold connection)
+3. Plumb turbo and tune for positive manifold pressure (max 350-400 hp)
+4. Change to thicker head gasket and add injectors/other supporting mods for 600hp
+
+#I am currently working on: 
+Megasquirt wiring plan, Inputs and Outputs
 
 #More to come, I've only just started!
 Most of the planning occurs in PLAN.gan which is a GANTT chart breakdown of all the steps needed for the build.
