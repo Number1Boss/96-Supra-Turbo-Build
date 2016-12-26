@@ -20,3 +20,5 @@ Completely stock except HKS cold air intake and Vibrant 3" Cat back
 * Catch Can: Greddy
 * Brakes: Lexus LS400
 \* tbd: to be determined
+
+#More to come, I've only just started!
