@@ -37,8 +37,8 @@
             <task id="4" name="Inputs" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true">
                 <task id="5" name="Speed" color="#8cb6ce" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true">
                     <notes><![CDATA[- Stock is VR sensor: http://forums.hybridz.org/topic/73568-stock-2jz-gte-crankcam-sensors-just-hall-effect/
-- Need to find stoxk ecu pin for stock sensor, or splice into motor location
-- ]]></notes>
+- Stock ECU Pin highlighted in GE ecu diagram lexus
+- Proposed wiring diagram in files]]></notes>
                 </task>
                 <task id="6" name="IAT" color="#8cb6ce" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true">
                     <notes><![CDATA[- DIYAutotune GM IAT
