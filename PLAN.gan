@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2016-12-25" view-index="0" gantt-divider-location="892" resource-divider-location="300" version="2.8.1" locale="en_US">
+    <description/>
+    <view zooming-state="default:2" id="gantt-chart">
+        <field id="tpd3" name="Name" width="379" order="0"/>
+        <field id="tpd4" name="Begin date" width="255" order="1"/>
+        <field id="tpd5" name="End date" width="254" order="2"/>
+    </view>
+    <view id="resource-table">
+        <field id="0" name="Name" width="210" order="0"/>
+        <field id="1" name="Default role" width="86" order="1"/>
+    </view>
+    <!-- -->
+    <calendars>
+        <day-types>
+            <day-type id="0"/>
+            <day-type id="1"/>
+            <default-week id="1" name="default" sun="1" mon="0" tue="0" wed="0" thu="0" fri="0" sat="1"/>
+            <only-show-weekends value="false"/>
+            <overriden-day-types/>
+            <days/>
+        </day-types>
+    </calendars>
+    <tasks empty-milestones="true">
+        <taskproperties>
+            <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+            <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+            <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+            <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+            <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+            <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+            <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+            <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+            <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+            <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+        </taskproperties>
+        <task id="0" name="Motor Running on MS" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true">
+            <task id="4" name="Inputs" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true">
+                <task id="5" name="Speed" color="#8cb6ce" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true">
+                    <notes><![CDATA[- Stock is VR sensor: http://forums.hybridz.org/topic/73568-stock-2jz-gte-crankcam-sensors-just-hall-effect/
+- Need to find stoxk ecu pin for stock sensor, or splice into motor location
+- ]]></notes>
+                </task>
+                <task id="6" name="IAT" color="#8cb6ce" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true">
+                    <notes><![CDATA[- DIYAutotune GM IAT
+- Stock sensor located in Airbox and plastic housing so won't attach to aluminum
+- ]]></notes>
+                </task>
+                <task id="23" name="TPS" color="#8cb6ce" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true">
+                    <notes><![CDATA[Stock TPS]]></notes>
+                </task>
+                <task id="27" name="O2" color="#8cb6ce" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true">
+                    <notes><![CDATA[- O2 Wideband built into custom downpipe
+- WIll interface with MTX-L analog output (Yellow or Brown wire)]]></notes>
+                </task>
+                <task id="31" name="MAP" color="#8cb6ce" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true">
+                    <notes><![CDATA[GM Map seesor from DIY]]></notes>
+                </task>
+                <task id="33" name="KNOCK" color="#8cb6ce" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true">
+                    <notes><![CDATA[Default knock sensors]]></notes>
+                </task>
+            </task>
+            <task id="35" name="Ouputs" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true">
+                <task id="36" name="Injectors" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true"/>
+            </task>
+        </task>
+        <task id="1" name="Turbo Install" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true">
+            <task id="8" name="Downpipe" color="#8cb6ce" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true">
+                <notes><![CDATA[- Custom made by ReSpeed
+- Exhaust bung for wideband needed before making]]></notes>
+            </task>
+            <task id="9" name="Oil Feed + Return" color="#8cb6ce" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true">
+                <notes><![CDATA[- {IS300 Union Bolt / Sandwich Plate}
+- Inline Oil FIlter: http://www.forcedperformance.net/merchant2/merchant.mvc?Screen=PROD&Store_Code=FP&Product_Code=FP4ANFilter&Category_Code=Acc-OilLines
+- Toronto Turbo Store
+- Oil Restrictor (0.065): http://www.atpturbo.com/mm5/merchant.mvc?Screen=PROD&Product_Code=ATP-OIL-022
+- Oil Feed + Return Kit: http://www.ebay.com/itm/NEW-TURBO-OIL-DRAIN-RETURN-FEED-LINE-T3-T4-T04E-T60-T61-T70-COMPLETE-KIT-BLACK-/272147448956
+
+- (IF UNION) 1/8NPT to 1/8BSPT http://www.glowshiftdirect.com/1-8-npt-female-to-18-bspt-male-adapter.aspx
+- (IF SANDWICH) 4AN to 1/8"NPT:
+https://www.glowshiftdirect.com/4-an-fuel-rail-adapter.aspx
+http://www.aptuned.com/VIB-10292]]></notes>
+            </task>
+            <task id="10" name="Coolant Feed + Return" color="#8cb6ce" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true">
+                <notes><![CDATA[- ge and gte coolant diagrams in files (make ge match gte)]]></notes>
+            </task>
+            <task id="11" name="Intercooler + Piping" color="#8cb6ce" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true">
+                <notes><![CDATA[Piping: http://www.ebay.com/itm/3-76mm-Polished-Aluminum-Intercooler-Pipe-Kit-Black-Hose-Clamp-Universal-/281401200012?hash=item4184d18d8c:g:s9AAAOxyE-dRzFxz&vxp=mtr]]></notes>
+            </task>
+        </task>
+        <task id="2" name="Turbo Tune" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true"/>
+    </tasks>
+    <resources/>
+    <allocations/>
+    <vacations/>
+    <previous/>
+    <roles roleset-name="Default"/>
+    <roles roleset-name="SoftwareDevelopment"/>
+</project>
