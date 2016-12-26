@@ -19,7 +19,7 @@ Completely stock except HKS cold air intake and Vibrant 3" Cat back
 * Fuel Pump: 2x Denso 240lph
 * Catch Can: Greddy
 * Brakes: Lexus LS400
-\* tbd: to be determined
+\*tbd: to be determined
 
 #General Milestones
 1. Get motor running on MegaSquirt ecu
