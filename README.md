@@ -22,3 +22,4 @@ Completely stock except HKS cold air intake and Vibrant 3" Cat back
 \* tbd: to be determined
 
 #More to come, I've only just started!
+Most of the planning occurs in PLAN.gan which is a GANTT chart breakdown of all the steps needed for the build.
