@@ -31,7 +31,11 @@ Completely stock except HKS cold air intake and Vibrant 3" Cat back
 4. Change to thicker head gasket and add injectors/other supporting mods for 600hp
 
 #I am currently working on: 
-Megasquirt wiring plan, Inputs and Outputs
+Building custom ECU case and harness
+
+##Past:
+* Megasquirt wiring plan, Inputs and Outputs
+
 
 #More to come, I've only just started!
 Most of the planning occurs in PLAN.gan which is a GANTT chart breakdown of all the steps needed for the build.
