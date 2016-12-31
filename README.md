@@ -1,6 +1,8 @@
 # 96-Supra-Turbo-Build
 
 Welcome to my 1996 Toyota Supra Build files.
+![alt text](TheCar.jpg "Logo Title Text 1")
+
 #Motor
 2JZGE with 100,000 km or approx 66,000 miles
 Completely stock except HKS cold air intake and Vibrant 3" Cat back
@@ -9,7 +11,7 @@ Completely stock except HKS cold air intake and Vibrant 3" Cat back
 * Turbo: Garrett GT4094R Ball Bearing
 * Manifold: BoostLogic 321SS
 * Wategate: Tial V44
-* Intercooler: tbd
+* Intercooler: CXRacing 29.5x8x3.5 2.5" outlet
 * Downpipe: Custom made
 * BOV: tbd
 * ECU: MegaSquirt Pro Module (3D printing custom case)
