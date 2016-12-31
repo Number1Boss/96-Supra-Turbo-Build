@@ -33,7 +33,7 @@ Completely stock except HKS cold air intake and Vibrant 3" Cat back
 #I am currently working on: 
 Building custom ECU case and harness
 
-##Past:
+##Completed:
 * Megasquirt wiring plan, Inputs and Outputs
 
 
