@@ -61,6 +61,8 @@
             </task>
             <task id="35" name="Ouputs" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true">
                 <task id="36" name="Injectors" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true"/>
+                <task id="38" name="IAC" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true"/>
+                <task id="39" name="Ignition" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true"/>
             </task>
         </task>
         <task id="1" name="Turbo Install" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true">
@@ -78,7 +80,9 @@
 - (IF UNION) 1/8NPT to 1/8BSPT http://www.glowshiftdirect.com/1-8-npt-female-to-18-bspt-male-adapter.aspx
 - (IF SANDWICH) 4AN to 1/8"NPT:
 https://www.glowshiftdirect.com/4-an-fuel-rail-adapter.aspx
-http://www.aptuned.com/VIB-10292]]></notes>
+http://www.aptuned.com/VIB-10292
+
+7/8" Holesaw return line]]></notes>
             </task>
             <task id="10" name="Coolant Feed + Return" color="#8cb6ce" meeting="false" start="2016-12-26" duration="1" complete="0" expand="true">
                 <notes><![CDATA[- ge and gte coolant diagrams in files (make ge match gte)]]></notes>
